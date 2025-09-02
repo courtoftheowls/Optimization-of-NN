@@ -25,7 +25,7 @@ The project completes and tests dropout layers, L2 regularization penalties, and
 * Python 3
 * PyTorch (manual weight updates, no built-in optimizers)
 * NumPy
-* Jupyter Notebooks (a3q2b.ipynb, a3q3.ipynb)
+* Jupyter Notebooks
 * Google Colab (for GPU-based training and experimentation)
 
 📊 Key Results
